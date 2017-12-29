@@ -1,3 +1,3 @@
 # Resume
 
-Link: https://maxtgr.github.io/Resume/
+Link in portuguese: https://maxtgr.github.io/Resume/
